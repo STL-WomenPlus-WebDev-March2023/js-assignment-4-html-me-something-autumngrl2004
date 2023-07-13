@@ -1,1 +1,35 @@
-/* Write your CSS here! */
+title {
+    text-align: center;
+    margin: 20px;
+    padding: 0%
+    font-size: larger;
+}
+#mainHeading{
+    color: red;
+}
+#testP{
+    color: rgb(14, 100, 14);
+}
+p.music {
+    background-color: powderblue;
+    margin-left: 8px;
+    margin-top: 15px;
+    padding: 0%;
+    text-align: center;
+    font-size: large;
+}
+#more_info{
+    background-color: powderblue;
+    margin-left: 8%;
+    padding: 0%;
+    text-align: center;
+    font-size:large;
+}
+body{
+    margin: 8px;
+    display-type: block;
+    text-align: center;
+    background-color: powderblue;
+}
+
+}
