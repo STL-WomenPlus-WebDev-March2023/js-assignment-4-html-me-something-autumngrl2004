@@ -1,16 +1,22 @@
-title {
+#mainHeading {
     text-align: center;
     margin: 20px;
     padding: 0%
     font-size: larger;
-}
-#mainHeading{
+    font-family: "Lucida Handwriting", "Courier New", "serif";
     color: red;
 }
+
 #testP{
     color: rgb(14, 100, 14);
+    font-family: "Garamond", "Georgia", "monospace";
+    margin-left:8px;
+    margin-top:15px;
+    padding: 0%;
+    text-align: center;
 }
 p.music {
+    font-family: "Garamond", "Georgia", "monospace";
     background-color: powderblue;
     margin-left: 8px;
     margin-top: 15px;
@@ -19,6 +25,7 @@ p.music {
     font-size: large;
 }
 #more_info{
+    font-family: "Garamond", "Georgia", "monospace";
     background-color: powderblue;
     margin-left: 8%;
     padding: 0%;
@@ -26,10 +33,14 @@ p.music {
     font-size:large;
 }
 body{
+    font-family: "Garamond", "Georgia", "monospace";
     margin: 8px;
     display-type: block;
     text-align: center;
     background-color: powderblue;
+}
+footer{
+    font-family: "Garamond", "Georgia", "monospace";
 }
 
 }
