@@ -1,13 +1,13 @@
-#mainHeading {
+#mainheading {
+    color:red;
     text-align: center;
     margin: 20px;
     padding: 0%
     font-size: larger;
     font-family: "Lucida Handwriting", "Courier New", "serif";
-    color: red;
 }
 
-#testP{
+#testP.funParagraph {
     color: rgb(14, 100, 14);
     font-family: "Garamond", "Georgia", "monospace";
     margin-left:8px;
@@ -35,12 +35,10 @@ p.music {
 body{
     font-family: "Garamond", "Georgia", "monospace";
     margin: 8px;
-    display-type: block;
+    display: block;
     text-align: center;
     background-color: powderblue;
 }
 footer{
     font-family: "Garamond", "Georgia", "monospace";
-}
-
 }
