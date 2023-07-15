@@ -7,7 +7,7 @@
     font-family: "Lucida Handwriting", "Courier New", "serif";
 }
 
-#testP.funParagraph {
+p.funParagraph {
     color: rgb(14, 100, 14);
     font-family: "Garamond", "Georgia", "monospace";
     margin-left:8px;
